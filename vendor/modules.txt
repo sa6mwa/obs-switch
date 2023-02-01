@@ -1,0 +1,43 @@
+# github.com/andreykaipov/goobs v0.12.0
+## explicit; go 1.19
+github.com/andreykaipov/goobs
+github.com/andreykaipov/goobs/api
+github.com/andreykaipov/goobs/api/events
+github.com/andreykaipov/goobs/api/events/subscriptions
+github.com/andreykaipov/goobs/api/opcodes
+github.com/andreykaipov/goobs/api/requests
+github.com/andreykaipov/goobs/api/requests/config
+github.com/andreykaipov/goobs/api/requests/filters
+github.com/andreykaipov/goobs/api/requests/general
+github.com/andreykaipov/goobs/api/requests/inputs
+github.com/andreykaipov/goobs/api/requests/mediainputs
+github.com/andreykaipov/goobs/api/requests/outputs
+github.com/andreykaipov/goobs/api/requests/record
+github.com/andreykaipov/goobs/api/requests/sceneitems
+github.com/andreykaipov/goobs/api/requests/scenes
+github.com/andreykaipov/goobs/api/requests/sources
+github.com/andreykaipov/goobs/api/requests/stream
+github.com/andreykaipov/goobs/api/requests/transitions
+github.com/andreykaipov/goobs/api/requests/ui
+github.com/andreykaipov/goobs/api/typedefs
+# github.com/buger/jsonparser v1.1.1
+## explicit; go 1.13
+github.com/buger/jsonparser
+# github.com/gorilla/websocket v1.5.0
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/hashicorp/logutils v1.0.0
+## explicit
+github.com/hashicorp/logutils
+# github.com/inconshreveable/mousetrap v1.1.0
+## explicit; go 1.18
+github.com/inconshreveable/mousetrap
+# github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
+## explicit
+github.com/nu7hatch/gouuid
+# github.com/spf13/cobra v1.6.1
+## explicit; go 1.15
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
